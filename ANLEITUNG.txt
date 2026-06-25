@@ -1,0 +1,44 @@
+RAFROM BAU – Website Paket
+==========================
+
+Seiten: index.html, leistungen.html, referenzen.html, impressum.html, datenschutz.html
+Medien: tatigkeit.mp4, poster.jpg, logo-white.png, logo-dark.png, favicon.png
+
+BEARBEITEN
+----------
+Der Bearbeiten-Button erscheint nur, wenn du die Datei lokal am Computer
+oeffnest (Doppelklick). Auf der veroeffentlichten Webseite ist er
+automatisch unsichtbar. Falls du die Live-Seite doch bearbeiten willst,
+haenge ?edit an die Adresse, z. B. www.rafrom-bau.at/?edit
+
+  - Bearbeiten-Button: unten LINKS
+  - WhatsApp-Button: unten RECHTS (fuer Besucher immer sichtbar)
+
+Ablauf: Bearbeiten -> Texte/Bilder aendern -> Speichern -> die
+heruntergeladene Datei beim Hoster hochladen.
+
+WHATSAPP-NUMMER AENDERN
+-----------------------
+Im Bearbeiten-Modus auf den gruenen WhatsApp-Button (unten rechts) klicken.
+Es erscheint ein Feld fuer die Nummer (international, nur Ziffern,
+z. B. 436645415501). Alternativ auf der Startseite die WhatsApp-Nummer im
+Kontaktbereich direkt ueberschreiben. Beim Speichern wird der Link neu
+gesetzt. Telefon- und E-Mail-Links aktualisieren sich beim Speichern
+ebenfalls automatisch aus dem sichtbaren Text.
+
+PROJEKTE (Referenzen-Seite)
+---------------------------
+Im Bearbeiten-Modus erscheint am Ende eine Kachel "+ Projekt hinzufuegen".
+Klicken legt eine neue Projektkarte an (Foto, Titel, Ort, Beschreibung,
+Gewerk). Jede Karte hat oben rechts ein rotes X zum Loeschen. Das Raster
+ordnet sich automatisch, es verschiebt sich nichts.
+
+EINGETRAGENE DATEN
+------------------
+Adresse, Telefonnummern, E-Mail, FN und ATU-UID sind aus der Visitenkarte
+uebernommen. Noch zu ergaenzen im Impressum: Name der Geschaeftsfuehrung.
+
+HOCHLADEN
+---------
+Alle HTML- und Mediendateien zusammen in das Hauptverzeichnis des Hosters
+legen (oft "html" oder "public_html").
